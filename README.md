@@ -2,7 +2,7 @@
 
 ### Conteúdo:
 Conhecer a linguagem Java do zero ao avançado;
-Fundamentos de programação sólidos
+Fundamentos de programação sólidos;
 Orientação a Objetos e os seus princípios;
 Banco de Dados e Frameworks de persistência como JPA;
 Programação Funcional com Java;
