@@ -10,10 +10,15 @@ this.nome = nome;
 this.peso = peso;
 }
 
-    double Comer(double pesoAlimento, String nome){
+    void comer(Comida comida){
+        if( comida != null){
+            this.peso += comida.pesoAlimento;
+        }
         
-        return peso + pesoAlimento;
         
     }
 
+    String apresentar(){
+        return "Olá, meu nome é " + nome + " e tenho "+ peso+ "kgs.";
+    }
 }

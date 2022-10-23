@@ -3,9 +3,17 @@ package TerceiroModulo.ClassesObjetosMetodos.Desafios.DesafioJantar;
 public class Jantar {
     public static void main(String[] args) {
         
-        Pessoa n1 = new Pessoa("Dina", 65.0);
-        n1.Comer(0.60, "Pastel");
+        Comida c1 = new Comida("Arroz", 0.700);
+        Comida c2 = new Comida("Feijão", 0.300);
+        
+        Pessoa p1 = new Pessoa("Dina", 99.0);
 
-        System.out.println();
+        System.out.println(p1.apresentar());
+    
+        p1.comer(c1);
+        System.out.println(p1.apresentar());
+        
+        p1.comer(c2);
+        System.out.println(p1.apresentar());
     }
 }
