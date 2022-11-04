@@ -14,30 +14,30 @@ Desenvolver projetos reais.
 
 ### Assuntos abordados:
 
-Algoritmo e Estrutura de Dados
+- Algoritmo e Estrutura de Dados
 
-Fundamentos da Linguagem Java
+- Fundamentos da Linguagem Java
 
-Estruturas de Controle
+- Estruturas de Controle
 
-Classes, Objetos, Métodos
+- Classes, Objetos, Métodos
 
-Orientação a Objeto
+- Orientação a Objeto
 
-Encapsulamento, Herança, Polimorfismo e Abstração
+- Encapsulamento, Herança, Polimorfismo e Abstração
 
-Lambdas
+- Lambdas
 
-Stream API
+- Stream API
 
-Tratamento de Exceções
+- Tratamento de Exceções
 
-JavaFX
+- JavaFX
 
-Banco de Dados Relacional
+- Banco de Dados Relacional
 
-Banco de Dados NÃO Relacional (NoSQL)
+- Banco de Dados NÃO Relacional (NoSQL)
 
-JPA (Hibernate)
+- JPA (Hibernate)
 
-Spring Boot
+- Spring Boot
